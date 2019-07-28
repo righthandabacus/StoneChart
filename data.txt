@@ -1,0 +1,64 @@
+					
+1	nat-color diam 83	SR	2.417		
+2	irr-color diam 84	SR	2.417		
+3	syn diam 85	SR	2.417		
+4	CZ 86	SR	2.150		
+5.1	zircon high 86	DR	1.925	1.984	
+5.2	zircon low 86	DR	1.810	1.815	
+6	YAG 86	SR	1.833		
+7	spessartine garnet 87	SR	1.810		
+8	GGG 307	SR	1.970	OTL	
+					
+9	almandine garnet 87	SR	1.781	OTL	range
+10	corundum; ruby, fancy sapphire 88	DR	1.762	1.770	
+11	corundum, lattice diff treated 89	DR	1.762	OTL	
+12	syn corundum; syn ruby, syn fancy sapphire 90-92	DR	1.762	1.770	
+13	corundum w/syn ruby o-g 94	DR	1.762	OTL	
+14	corundum, color-change sapphire 95	DR	1.762	1.770	
+15	syn corundum, syn color-change sapphire 95	DR	1.762	1.770	
+16	pyrope-spessartine garnet 96	SR	1.750	1.780	range
+17	pyrope-almandine garnet 96	SR	1.750	1.780	range
+18	alexandrite chrysoberyl 97	DR	1.746	1.755	
+19	syn alexan chrysoberyl 98	DR	1.746	1.755	
+20	rhodonite 99	DR	1.733	1.747	
+21	pyrope garnet 99	SR	1.730	1.750	range
+22.1	flame-fus syn spinel red 100	SR	1.722		
+22.2	flame-fus syn spinel pink 100	SR	1.728		
+23	flux-gn syn spinel 100	SR	1.719		
+24	spinel 101	SR	1.718		
+25	taaffeite 101	DR	1.719	1.723	
+					
+26	zoisite, tanzanite 102	DR	1.691	1.700	
+27	kunzite spodumene 102	DR	1.660	1.676	
+28	andalusite 102	DR	1.634	1.643	
+29	apatite 103	DR	1.634	1.638	
+30	danburite 103	DR	1.630	1.636	
+31	topaz 103	DR	1.629	1.637	
+32	tourmaline 104	DR	1.624	1.644	
+33	pezzottaite 105	DR	1.608	1.617	
+34	glass 113	SR	1.470	1.700	range
+35	plastic 113	SR	1.460	1.700	range
+					
+36	rhodochrosite 105	DR	1.597	1.817	OTL
+37	beryl, morganite 106	DR	1.583	1.590	
+38	hydro syn red+pink beryl 106	DR	1.571	1.578	
+39	red beryl 107	DR	1.566	1.572	
+40	lab feldspar	DR	1.559	1.568	
+41	rose qz 126	DRAGG	1.553	1.555	
+42	scapolite 108	DR	1.550	1.564	
+43	qz, amethyst 108	DR	1.544	1.553	
+44	qz, ametrine 109	DR	1.544	1.553	
+45	syn qz, syn amethyst 109	DR	1.544	1.553	
+46	syn qz, syn ametrine 109	DR	1.544	1.553	
+47	syn pink qz 110	DR	1.544	1.553	
+48	qh-ck dyed qz 111	DRAGG	1.544	1.553	
+48.5	iolite 160	DR	1.542	1.551	
+49	glass 113	SR	1.470	1.700	
+50	plastic 113	SR	1.460	1.700	
+					
+51	calcite 111	DRAGG	1.486	1.658	
+52	opal 111	SR	1.450		
+53	fluo 112	SR	1.434		
+54	syn opal 112	SR	1.430	1.470	range
+55	glass 113	SR	1.470	1.700	range
+56	plastic 113	SR	1.460	1.700	range
